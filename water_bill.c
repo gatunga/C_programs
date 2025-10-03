@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga
+    Reg no: PA106/G/29387/25
+    Description: billing water consumption of the user*/
 #include<stdio.h>
 int main()
 {
@@ -19,3 +22,4 @@ int main()
         return 0;
 
 }
+
