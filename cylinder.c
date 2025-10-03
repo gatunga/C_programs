@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga
+    Reg no: PA106/G/29387/25
+    Description: volume and surface area of a cylinder*/
 #include<stdio.h>
 #include<math.h>  //for M_PI
 int main()
@@ -16,3 +19,4 @@ int main()
     printf("Surface area: %.2f\n",sa);
     return 0;
 }
+
