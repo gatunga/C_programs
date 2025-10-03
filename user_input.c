@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga 
+    Reg no: PA106/G/2938/25
+    Description: various inputs of the user*/
 #include<stdio.h>
 int main()
 {
@@ -29,3 +32,4 @@ int main()
     return 0;
 
 }
+
