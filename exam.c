@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga
+    Reg no: PA106/G/29387/25
+    Description: exam eligibility*/
 #include<stdio.h>
 int main()
 {
@@ -12,3 +15,4 @@ int main()
         printf("You are NOT eligible for final exam.");
     return 0;
 }
+
