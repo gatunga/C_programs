@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga
+    Reg no: PA106/G/29387/25
+    Description: purchasing data bundles*/
 #include<stdio.h>
 int main()
 {
@@ -23,3 +26,4 @@ int main()
     }
     return 0;
 }
+
