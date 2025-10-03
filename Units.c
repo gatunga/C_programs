@@ -1,3 +1,6 @@
+/*Name: Alex Gatunga
+reg no: PA106/G/29387/25
+Description: Units offered*/
 #include<stdio.h>
 /*units offered this semester*/
 int main()
@@ -10,3 +13,4 @@ printf("4. Discrete mathematics\n ");
 printf("5. Mathematics for science\n ");
       return 0;
 }
+
